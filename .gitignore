@@ -1,0 +1,4 @@
+# Reference Link: https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+.DS_Store
+/sources
+/imgs
