@@ -1,4 +1,4 @@
-# study-html-and-css-basic
+# study-html-and-css-basic (CLOSED)
 ### Credit
 Udacity: Introduction to HTML and CSS
 ### Goal
